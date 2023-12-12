@@ -1,4 +1,4 @@
-[# STAT401 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-1)
+Learning Objectives [# STAT401 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-1)
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
 [Data analysis:](https://youtu.be/WIvehDeVRak)
