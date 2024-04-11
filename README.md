@@ -6,7 +6,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 
 
-
+Chi Square: https://youtu.be/dgehxC9tJVc
 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 
