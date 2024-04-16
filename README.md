@@ -18,4 +18,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Github:](https://github.com/spawar2/STAT302)
 
-STAT451-Independent Study (4 credit) (1 student)
+STAT451-Independent Study (4 credit) (1 student) **Undergraduate Class & Lab
