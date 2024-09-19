@@ -3,7 +3,7 @@ Learning Objectives [# STAT401 4 Credits Data Analysis](https://pawar1550.wixsit
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.).
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
-
+[R: ggpubr, tidyverse, datarium, dplyr]
 
 
 Chi Square: https://youtu.be/dgehxC9tJVc
