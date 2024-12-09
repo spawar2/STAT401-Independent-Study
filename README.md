@@ -1,4 +1,4 @@
-Learning Objectives [# STAT401 4 Credits Data Analysis](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-1). December, 9, 2024.
+Learning Objectives [# STAT401 4 Credits Data Analysis](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-1). Date created/updated: December, 9, 2024.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV).
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). United States of America (USA).
 [Data analysis:](https://youtu.be/WIvehDeVRak)
